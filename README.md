@@ -294,8 +294,9 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 
 If you're also an ECE student learning Embedded Systems, feel free to connect!
 
-- **GitHub:** [PAVAN SHETTY H S](https://github.com/pavanshettyhs)
-- **LinkedIn:** Pavan Shetty H S
+- **GitHub:** [PAVAN SHETTY H S](https://github.com/pshettyhs-ai)
+- **LinkedIn:** [Pavan Shetty H S](https://www.linkedin.com/in/pavan-shetty-h-s1807/)
+- **Email:** [pshettyhs@gmail.com](mailto:pshettyhs@gmail.com)
 
 ---
 
